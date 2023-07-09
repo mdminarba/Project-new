@@ -77,6 +77,9 @@ body{
     line-height: 15px;
     list-style: none;
 }
+.list-item i{
+    margin-right: 10px;
+}
 
 .plan-section{
     margin-top:50px;
